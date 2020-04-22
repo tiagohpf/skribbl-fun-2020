@@ -14,12 +14,13 @@ class FileManager:
             with open(filename, 'r', encoding='utf-8') as document:
                 lines = document.readlines()
                 for line in lines:
-                    if len(line) > 0:
+                    if 0 < len(line) <= 30:
                         new_sentence = StringParser.refactor_sentence(line)
                         self.words.append(new_sentence)
             document.close()
 
     def write_txt_files(self):
+        self.words = list(set(self.words))
         with open('skribbl_final.txt', 'w', encoding='utf-8') as document:
             for word in self.words:
                 if word == self.words[-1]:

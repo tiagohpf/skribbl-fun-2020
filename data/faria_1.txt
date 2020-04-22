@@ -1,4 +1,4 @@
-windows
+﻿windows
 linux
 google chrome
 youtube
@@ -214,5 +214,233 @@ lingerie
 soutien
 óculos
 brincos
-piercings
+piercing
 orelhas
+bróculos
+vh1
+lg
+hp
+cabo
+bloco de notas
+caneta
+gaveta
+limpar
+cama
+sofá
+universidade
+creche
+tomada
+cc
+ciclismo
+medicamentos
+rebuçado
+circo
+palhaço
+tigre
+macaco
+pónei
+foca
+relógio
+cinto
+moldura
+consola
+playstation
+xbox
+nintendo wii
+wii
+nintendo
+medalha
+troféu
+pódio
+vencedor
+campeão
+wrestling
+jogos olímpicos
+moldura
+cartas
+cartas contra tugas
+hotel
+jornalista
+comando
+gilette
+máscara
+bêbado
+encomenda
+cumprimentar
+emplastro
+nélson évora
+francis obikwelu
+cristiano ronal
+michael jordan
+air jordan
+audi
+opel
+reanult
+citroen
+dacia
+suricata
+javali
+timon & pumba
+rei leão
+montros e companhia
+peixe
+baleia
+tubarão
+nemo
+peixe palhaço
+honda
+mercedes
+porsche
+fiat
+mitsubishi
+suzuki
+subaru
+ford
+volvo
+toyota
+volkswagen
+dodge
+nissan
+hyundai
+chevrolet
+cabeçudo
+kia
+jaguar
+aston martin
+tolls royce
+smart
+audi
+land rover
+alfa romeo
+subaru
+seat
+maserati
+panda
+panda kung fu
+gafanhoto
+tartaruga
+tartarugas ninja
+rover
+peugeot
+bugatti
+boxe
+karaté
+badminton
+voleibol
+nba
+rugby
+hóquei em patins
+ténis
+ténis de mesa
+escalada
+patins
+comboio
+autocarro
+avião
+carro
+táxi
+lixo
+chupeta
+coca-cola
+cuecas
+galinha
+vaca
+rato
+pintor
+pintura
+bébé
+escova de dentes
+astronauta
+cadeira
+mochila
+médico
+calculadora
+termómetro
+pescador
+internet
+polícia
+bilhete
+aloquete
+surf
+máquina de lavar
+passar a ferro
+esfregona
+vassoura
+fogão
+torneira
+bidé
+star wars
+borboleta
+caranguejo
+balança
+crocodilo
+elefante
+veado
+sic radical
+porco
+pink floyd
+maca
+estrada
+obras
+espaço
+marte
+planeta terra
+globo
+oceano
+floresta
+índio
+estrela
+estrela do mar
+praia
+rio
+grávida
+ginecologista
+piano
+guitarra
+correr
+panquecas
+carta
+ski
+barbeiro
+cabeleireiro
+peidar
+arco
+ballet
+botões
+espada
+escudo
+capacete
+cascata
+jardim
+luigi
+super mário
+karts
+drone
+prémio
+pizza
+cobertor
+helicóptero
+fantasma
+ghostbusters
+stranger things
+doente
+dinossauro
+t-rex
+arco íris
+vai ficar tudo bem
+compras
+supermercado
+continente
+pingo doce
+intermarché
+minipreço
+jumbo
+auchan
+carrefour
+modelo
+triplo
+espelho
+aranha
+formiga
+moto
+trampolim
