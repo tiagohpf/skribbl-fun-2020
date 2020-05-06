@@ -59,7 +59,8 @@ Paraguai
 Peru
 índio
 Polónia
-pallbearers - gana
+pallbearers
+confin dance
 Portugal
 lisboa
 porto
@@ -275,7 +276,7 @@ michael jordan
 air jordan
 audi
 opel
-reanult
+Renault
 citroen
 dacia
 suricata
@@ -444,3 +445,45 @@ aranha
 formiga
 moto
 trampolim
+cabeçudo
+quadro
+fotografia
+batalha naval
+damas
+xadrez
+ping pong
+lavar as mãos
+aquecedor
+medalha
+troféu
+pijama
+casaco
+calções
+tirar catotas
+arrotar
+peidar
+bêbado
+embriagado
+guna
+trolha
+empregada de limpeza
+auschwitz
+terramoto
+sismo
+vulcão
+praia
+obras
+ovo
+ovos
+galinha
+pato
+cinema
+Avatar
+disney channel
+morangos com açúcar
+pokémon
+digimon
+oliver e benji
+pescador
+baguete
+carta de condução

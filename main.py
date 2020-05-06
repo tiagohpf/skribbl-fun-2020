@@ -1,6 +1,7 @@
 import sys, os
 from file_manager import FileManager
 
+
 def main():
     dir = 'data'
     if len(sys.argv) > 1:

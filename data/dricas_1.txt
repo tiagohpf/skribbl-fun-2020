@@ -36,7 +36,7 @@ Mordomo
 Celebridade
 Cristiano Ronaldo
 Minhoca
-Madona
+Madonna
 Cavaco Silva
 Marcelo Rebelo de Sousa
 Presidente da República
@@ -67,7 +67,7 @@ Conversar
 Gritar
 Mestrado
 Licenciatura
-Telescola
+Tele-escola
 Costelas
 Magnitude
 Tomo
